@@ -8,7 +8,9 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.9"
 djangorestframework = "^3.14.0"
-django-filter = "^22.1"
+django-cors-headers = "^3.14.0"
+django-filter = "^23.1"
+pillow = "^9.5.0"
 
 
 [build-system]
